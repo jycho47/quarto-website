@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "Blog.html",
+    "href": "Blog.html",
     "title": "Jae Yoon Cho",
     "section": "",
-    "text": "This is an about page. Write your information"
+    "text": "This is my personal blog."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "Research.html",
+    "href": "Research.html",
     "title": "Jae Yoon Cho",
     "section": "",
-    "text": "Here you can demonstrate your projects"
+    "text": "This is the research page. Research projects will be updated here."
   },
   {
     "objectID": "index.html",
