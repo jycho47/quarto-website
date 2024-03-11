@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: a694bbbb-2c19-455f-8479-2bdedb37f51f
+      url: 'jaeyooncho.netlify.app'
