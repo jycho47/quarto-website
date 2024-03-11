@@ -11,6 +11,8 @@ website:
         text: Bio
       - href: projects.qmd
         text: Projects
+  page-footer:
+    right: "&copy; 2024, Jae Yoon Cho"
 
 format:
   html:

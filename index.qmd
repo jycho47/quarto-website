@@ -1,6 +1,25 @@
 ---
 toc: false
+about:
+  template: trestles
+  links:
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/jae-yoon-cho-6904a0167/
+      - icon: github
+        text: Github
+        url: https://github.com/jycho47
+      - icon: inbox-fill
+        text: Email
+        url: "mailto:jaeyooncho47@gmail.com"
+image: profile_picture.jpg
 ---
+
+
+## About
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+Attached is my current [Resume](/docs/CV/JaeYoonCho_Resume.pdf "Resume")
+
+## Education
