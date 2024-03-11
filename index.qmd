@@ -18,8 +18,6 @@ image: profile_picture.jpg
 
 ## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
 Attached is my current [Resume](/docs/CV/JaeYoonCho_Resume.pdf "Resume")
 
 ## Academic Experience
