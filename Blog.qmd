@@ -1,2 +1,15 @@
+---
+listing:
+  - id: blogs-listing
+    contents: 
+      - "/blogs/*.qmd"
+    type: table
+    fields: 
+      - title
+    categories: false 
+---
 
-This is my personal blog.
+This is my personal blog. Below are going to be my posts that I've worked really hard on.
+
+:::blogs-listing
+:::
