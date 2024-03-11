@@ -6,11 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: Bio
-      - href: projects.qmd
-        text: Projects
+        text: About
+      - href: Research.qmd
+        text: Research
+      - href: Blog.qmd
+        text: Blog
   page-footer:
     right: "&copy; 2024, Jae Yoon Cho"
 
