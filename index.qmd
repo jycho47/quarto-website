@@ -1,8 +1,6 @@
 ---
-title: "personal-website"
+toc: false
 ---
-
-## Title of Website
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
