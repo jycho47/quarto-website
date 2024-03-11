@@ -22,4 +22,10 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Attached is my current [Resume](/docs/CV/JaeYoonCho_Resume.pdf "Resume")
 
-## Education
+## Academic Experience
+- St. Mark's School - *Southborough, MA*
+- University of California, Los Angeles - *Bachelor of Science in Statistics and Data Science*
+
+
+## Work Experience
+I do not have any work experiences yet.
